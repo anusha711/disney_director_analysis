@@ -23,3 +23,6 @@ README.md: this file.
 
 To run the code in the Jupyter Notebook, you'll need to install several Python libraries, including pandas, matplotlib, and altair. You can install these libraries using pip or conda. 
 Once you have the libraries installed, you can open the Jupyter Notebook and run the cells to reproduce the analysis.
+
+# Output:
+To view the rendered output, please click [here](https://nbviewer.org/github/anusha711/disney_director_analysis/blob/main/disney_project.ipynb)
