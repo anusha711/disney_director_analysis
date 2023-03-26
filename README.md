@@ -4,12 +4,12 @@ This repository contains data and code for an analysis of gross earnings generat
 includes information on the movie titles, release dates, genres, MPAA ratings, directors, and gross earnings. The analysis was conducted using Python, Pandas, Altair and Matplotlib.
 
 
-Question(s) of interests::
+# Question(s) of interests::
 
-Finding out the relationship between box office gross and genre in Disney movies (in between the given number of years)
-Director Analysis-Finding the Disney movie directors with the most movies on the list,the number of movies each director has made in each genre and what is the box office success rate for each director.
+* Finding out the relationship between box office gross and genre in Disney movies (in between the given number of years)
+* Director Analysis-Finding the Disney movie directors with the most movies on the list,the number of movies each director has made in each genre and what is the box office success rate for each director.
 
-Repository Contents:
+# Repository Contents:
 
 The repository contains the following files:
 Disney_Director_Analysis.ipynb: a Jupyter Notebook that contains the code used for the analysis.
@@ -19,7 +19,7 @@ data/disney_movies.csv: a CSV file containing the raw data used for the analysis
 data/disney_director.csv:  a CSV file containing the raw data used for the analysis.
 README.md: this file.
 
-Running the Code::
+# Running the Code::
 
 To run the code in the Jupyter Notebook, you'll need to install several Python libraries, including pandas, matplotlib, and altair. You can install these libraries using pip or conda. 
 Once you have the libraries installed, you can open the Jupyter Notebook and run the cells to reproduce the analysis.
